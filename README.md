@@ -8,15 +8,7 @@ Install dependencies with
 $ npm install
 ```
 
-Run test cases:
 
-```
-# start test rpc server (which starts server on localhost:8545)
-$ npm run testrpc
-
-# run test cases
-$ npm run test
-```
 
 ### Development
 
@@ -32,6 +24,16 @@ $ npm run authorized-dev
 
 # start dev server
 $ npm run dev
+```
+
+Run test cases:
+
+```
+# start test rpc server (which starts server on localhost:8545)
+$ npm run testrpc
+
+# run test cases
+$ npm run test
 ```
 
 ### Production
